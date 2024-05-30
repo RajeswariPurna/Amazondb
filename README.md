@@ -4,7 +4,7 @@
 This project provides an analysis of sales data for products sold on Amazon. It includes scripts and notebooks for processing, analyzing, and visualizing the data to extract insights into sales trends, popular products, and customer behavior.
 
 
-Download the sales data files from [data/](data/) directory.
+Download the sales data as prior requirement.
 
 ## Credits
 
